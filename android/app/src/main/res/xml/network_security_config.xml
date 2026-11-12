@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Folia Android：允许明文 http（自建的网易云/酷狗 API 实例通常没有证书） -->
+<network-security-config>
+    <base-config cleartextTrafficPermitted="true" />
+</network-security-config>
